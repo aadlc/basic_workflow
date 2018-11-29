@@ -1,0 +1,19 @@
+{
+  "name": "catalogue_stations_web_ui",
+  "version": "0.0.1",
+  "description": "This web page will be made up of embedded websites and, it will be used as the main content on catalogue stations.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Alfonzo Angulo",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
